@@ -1,5 +1,5 @@
-baseURL = "https://vaderetro.blog"
-title = "Vade Retro"
+baseURL = "https://retroblog.it"
+title = "retroBLOG"
 languageCode = "it"
 DefaultContentLanguage = "it" # Change this to change the site's language
 theme = "hugo.386"
@@ -7,7 +7,7 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = """V A D E___R E T R O__!"""
+    mainpagetitle = "-= r e t r o B L O G =-"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "Bentornato negli anni ottanta!" 
