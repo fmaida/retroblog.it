@@ -1,0 +1,3 @@
+{{ $data := .Date.Format "01-02" }}
+{{ $anno := sub .Date.Year 41 }}
+{{ $anno }}-{{ $data }}

@@ -1,0 +1,3 @@
+{{ $data := time.Format "Mon, 2 Jan" .Date }}
+{{ $anno := sub .Date.Year 41 }}
+{{ $data }} {{ $anno }}

@@ -1,0 +1,20 @@
+[home]
+other = "Home"
+
+[posts]
+other = "Articoli"
+
+[postslist]
+other = "Articoli del blog"
+
+[categories]
+other = "Categorie"
+
+[tags]
+other = "Tags"
+
+[backtohome]
+other = "Torna alla Home"
+
+[builton]
+other = "Costruito con"
