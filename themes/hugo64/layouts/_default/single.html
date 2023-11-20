@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div class="row-fluid navmargin">
+    <div class="page-header">
+        {{ if eq .Section "post" }}
+            <h4>{{ partial "invecchiator/articolo" . }}</h4>
+        {{ end }}
+        <h1 class="title-box">{{ .Title }}</h1>        
+    </div>
+    {{ $riassunto := "" }}
+    {{ if (isset .Params "description") }}
+        {{ $riassunto = .Params.description }}
+        <p class="lead">{{ $riassunto }}</p>
+    {{ end }}    
+    {{ .Content }}    
+    <h4 class="backtohome">
+        {{/* Pubblicato: {{ partial "invecchiator/articolo" . }}<br> */}}
+        <a href="{{ .Site.BaseURL }}"><= {{ i18n "backtohome" }}</a>
+    </h4>
+</div>
+
+{{ end }}

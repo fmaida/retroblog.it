@@ -2,7 +2,7 @@ baseURL = "https://retroblog.it"
 title = "retroBLOG"
 languageCode = "it"
 DefaultContentLanguage = "it" # Change this to change the site's language
-theme = "hugo.386"
+theme = "hugo64"
 preserveTaxonomyNames = true
 
 [params]
@@ -35,7 +35,7 @@ preserveTaxonomyNames = true
     loadfastload = false
 
     # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 0.48
+    loadspeedfactor = 0.67
 
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = false
