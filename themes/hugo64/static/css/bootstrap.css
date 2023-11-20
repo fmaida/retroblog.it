@@ -225,8 +225,8 @@ textarea {
   font-family: 'DOS';
   font-style: normal;
   font-weight: normal;
-  src: url('fonts/7a9d9ea6783424df891aa15507dc0d05.eot');
-  src: local('☺'), url('fonts/7a9d9ea6783424df891aa15507dc0d05.woff') format('woff'), url('fonts/7a9d9ea6783424df891aa15507dc0d05.ttf') format('truetype'), url('fonts/7a9d9ea6783424df891aa15507dc0d05.svg') format('svg');
+  src: url('fonts/c64_pixeled.eot');
+  src: local('☺'), url('fonts/c64_pixeled.woff') format('woff'), url('fonts/c64_pixeled.ttf') format('truetype'), url('fonts/c64_pixeled.svg') format('svg');
 }
 
 body {
