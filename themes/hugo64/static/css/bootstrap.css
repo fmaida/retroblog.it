@@ -239,7 +239,7 @@ body {
 }
 
 a {
-  color: #d5df7c;
+  color: #d5df7c; 
   text-decoration: none;
 }
 
@@ -816,7 +816,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #C18178;
+  color: #9351b6; /* #C18178; */
 }
 
 h5 {
@@ -5870,7 +5870,7 @@ a.badge:focus {
   z-index: 9999999;
   width: 100%;
   height: 100%;
-  background: #222;
+  background: #242424;
 }
 
 #bar386 {
