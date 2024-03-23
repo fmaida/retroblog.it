@@ -20,7 +20,7 @@ In pratica è una versione semplificata di Pac-Man. Ma non lasciarti ingannare, 
 
 Mentre stavo giocando, ho pensato che sarebbe stato il gioco ideale per il mio vecchio computer portatile Casio PB-100F, nonché un gioco non troppo difficile da implementare, anche con il vetusto linguaggio BASIC. Quindi, ho deciso di provare a creare una versione tutta mia che funzionasse su quel computer. Ci sono riuscito in circa tre ore, lavorandoci sopra un po' lunedì sera e un po' nel pomeriggio di oggi. 
 
-<img src="uploads/2024/52ed252276.jpg" width="600" height="337" alt="La mia personale reinterpretazione del gioco PAKU PAKU, giocato sul mio vecchio e fidato Casio PB-100F">
+{{< figure src="thumb_52ed252276.jpg" caption="La mia personale reinterpretazione del gioco PAKU PAKU, giocato sul mio vecchio e fidato Casio PB-100F" >}}
 
 **Posso dire che mi sono proprio divertito a creare questo progetto, mi sono sentito di nuovo come quando ero un ragazzino di 11 anni che creava piccoli videogiochi solo per puro divertimento. Lo facevo senza pensare alla fama o ai soldi, volevo solo passare il tempo divertendomi.**
 
@@ -32,4 +32,4 @@ Questo è quello che mi è venuto fuori:
 
 Se mai ci dovesse essere ancora in giro qualche utente di *computer tascabili Casio PB-100, PB-100F e Tandy PC-4*, ho caricato il gioco in formato WAV assieme al codice sorgente in BASIC sul mio profilo di itch.io, che riporto anche qui sotto.
 
-<iframe frameborder="0" src="https://itch.io/embed/2467159" width="552" height="167"><a href="https://cesco.itch.io/paku-paku-casio-pb100">Paku Paku for Casio PB-100/100F and Tandy PC-4 by Cesco</a></iframe>
+{{< itchio src="https://cesco.itch.io/paku-paku-casio-pb100" embed="https://itch.io/embed/2467159" caption="Paku Paku for Casio PB-100/100F and Tandy PC-4 by Francesco Maida" >}}

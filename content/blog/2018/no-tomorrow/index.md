@@ -12,7 +12,7 @@ tags:
   - videogiochi
 ---
 
-{{< figure src="animazione_no_tomorrow.gif" caption="No Tomorrow" >}}
+{{< figure src="animazione_no_tomorrow.gif" caption="Breve animazione tratta dal gioco \"No Tomorrow\"" >}}
 
 **Questo è il mio piccolo tributo ad un gioco con cui sono cresciuto, nelle sale giochi della mia città quando ero un ragazzino.** Un gioco con una trackball, tanti missili ed il compito quasi impossibile di mantenere a distanza una guerra termonucleare il più a lungo possibile.
 
