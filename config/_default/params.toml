@@ -1,0 +1,88 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+colorScheme = "ocean" # sapphire
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+# robots = ""
+fingerprintAlgorithm = "sha256"
+
+[author]
+  name = "Francesco Maida"
+  image = "avatar.jpg"
+  headline = "Sviluppatore di giorno, Indie developer alla notte."
+  bio = "Vivo e lavoro a Venezia. Sono uno sviluppatore di siti e gestionali di giorno, ed aspirante indie developer di notte. Tipo Dr. Jekyll e Mr. Hyde, ma decisamente meno figo."
+  links = [
+    { mastodon = "https://livellosegreto.it/@cesco" },
+    { linkedin = "https://www.linkedin.com/in/fmaida" },
+    { github = "https://github.com/fmaida" },    
+    { email = "mailto:museo05_vasto@icloud.com" },
+  ]
+
+[header]
+  logo = "logo.png"
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  # logo = "img/logo.jpg"
+  # logoDark = "img/dark-logo.jpg"
+  showTitle = false
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "custom" # valid options: page, profile, custom
+  showRecent = true
+  recentLimit = 6
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = true
+  editURL = "https://github.com/fmaida/cesco.it/tree/main/content/"
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+  sharingLinks = ["facebook", "twitter", "linkedin", "reddit", "telegram", "mastodon", "email"]  # "pinterest", "reddit", "email"
+
+[list]
+  showBreadcrumbs = true
+  showSummary = false
+  showTableOfContents = true
+  showTaxonomies = true
+  groupByYear = false
+  paginationWidth = 1
+
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
+
+[taxonomy]
+  showTermCount = true
+
+[umamiAnalytics]
+  site = "731da511-0da7-4e8c-9a32-3cc2e7bc08f3"
+  region = "eu"
+
+[verification]
+  # google = ""
+  # bing = ""
+  # pinterest = ""
+  # yandex = ""

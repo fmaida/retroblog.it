@@ -1,0 +1,7 @@
+<iframe frameborder="0" 
+    src="{{ .Get `embed` | default (.Get `src`) }}"
+    width="552" height="167">
+    <a href="{{ .Get `src` }}">
+        {{ .Get `caption` | default `Missing Caption` }}
+    </a>
+</iframe>

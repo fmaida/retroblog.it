@@ -1,0 +1,12 @@
+languageCode = "it-IT"
+languageName = "Italiano"
+languageDirection = "ltr"
+weight = 1
+
+title = "retroBLOG"
+copyright = "&copy; 2024 Francesco Maida"
+
+[params]
+  #mainSections = ["2014"]
+  dateFormat = "2 January 2006"
+  description = "Vivo e lavoro a Venezia. Sono uno sviluppatore di siti e gestionali di giorno, ed aspirante indie developer di notte. Tipo Dr. Jekyll e Mr. Hyde, ma decisamente meno figo."
