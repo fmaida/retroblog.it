@@ -1,5 +1,5 @@
 ---
-title: "Manic Mission"
+title: "Manic Mission: Quando Miner Willy mette i bastoni fra le ruote di Elvin Atombender"
 date: 2024-03-11T13:20:39+0100
 lastmod: 2024-03-11T13:23:07+0100
 coverCaption:
