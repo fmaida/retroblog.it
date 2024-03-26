@@ -2,4 +2,5 @@
 title: Benvenuti su retroBLOG
 ---
 
-Questo è il mio piccolo spazio personale, in cui mi piace parlare dei costumi e della cultura degli anni settanta, ottanta e novanta. Essendoci cresciuto, mi piace riesumare i vecchi ricordi di quell'epoca. Tanto per fare quattro chiacchere in compagnia.
+Benvenuti su retroBLOG, il vostro piccolo angolo nostalgico dedicato agli anni '70, '80 e '90!  
+Ciao, io mi chiamo Francesco e quaggiù sono il padrone di casa. Immergetevi assieme a me nel mondo affascinante dei videogiochi per NES, Master System, Commodore 64, MSX, Atari 2600, e rivivete le emozioni delle serie TV, dei cartoni animati e dei programmi che hanno segnato un'epoca. Un viaggio nel tempo, giusto ad un clic di distanza. 
