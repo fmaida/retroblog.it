@@ -9,6 +9,8 @@ coverAlt:
 tags:
   - retrogaming
   - console
+aliases:
+  - /blog/2024/atari-2600jr-black-irish/
 ---
 
 ## Il "black Irish"

@@ -3,9 +3,13 @@ title: "La genesi di un mito dei videogiochi: Another World"
 date: 2024-03-02T18:15:40+0100
 lastmod: 2024-03-02T18:26:42+0100
 coverCaption:
-    "Origine dell'immagine: Éric Chahi / Delphine Software"
+    "Lester Knight Chaykin, scagliato da un'esperimento in un altro mondo, fa la conoscenza del suo primo alieno. Origine dell'immagine: Éric Chahi / Delphine Software"
+coverAlt:
+    "Lester Knight Chaykin, scagliato da un'esperimento in un altro mondo, fa la conoscenza del suo primo alieno. Origine dell'immagine: Éric Chahi / Delphine Software"
 tags:
     - videogiochi
+aliases:
+    - /2024/03/02/la-genesi-di.html
 ---
 Siamo alla fine degli anni '80. Il ventenne grafico e programmatore *Eric Chahi* gira a casa un filmetto amatoriale.
 Lancia un automobilina sul tappeto, cammina, preme qualche tasto sul suo Amiga, apre una lattina di Coca. 

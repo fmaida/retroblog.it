@@ -2,9 +2,15 @@
 title: "Ho creato un videogioco per Casio PB-100"
 date: 2024-03-02T17:59:21+0100
 lastmod: 2024-03-03T00:13:58+0100
+coverCaption:
+    La mia personale reinterpretazione del gioco PAKU PAKU, giocato sul mio vecchio e fidato Casio PB-100F
+coverAlt:
+    La mia personale reinterpretazione del gioco PAKU PAKU, giocato sul mio vecchio e fidato Casio PB-100F
 tags:
     - videogiochi
     - sviluppo
+aliases:
+    - /2024/03/02/ho-creato-un.html
 ---
 
 ## Come mi è venuta l'idea
@@ -19,8 +25,6 @@ In pratica è una versione semplificata di Pac-Man. Ma non lasciarti ingannare, 
 ## E la lampadina improvvisamente si accende
 
 Mentre stavo giocando, ho pensato che sarebbe stato il gioco ideale per il mio vecchio computer portatile Casio PB-100F, nonché un gioco non troppo difficile da implementare, anche con il vetusto linguaggio BASIC. Quindi, ho deciso di provare a creare una versione tutta mia che funzionasse su quel computer. Ci sono riuscito in circa tre ore, lavorandoci sopra un po' lunedì sera e un po' nel pomeriggio di oggi. 
-
-{{< figure src="thumb_52ed252276.jpg" caption="La mia personale reinterpretazione del gioco PAKU PAKU, giocato sul mio vecchio e fidato Casio PB-100F" >}}
 
 **Posso dire che mi sono proprio divertito a creare questo progetto, mi sono sentito di nuovo come quando ero un ragazzino di 11 anni che creava piccoli videogiochi solo per puro divertimento. Lo facevo senza pensare alla fama o ai soldi, volevo solo passare il tempo divertendomi.**
 
