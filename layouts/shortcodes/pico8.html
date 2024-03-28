@@ -1,3 +1,1 @@
-{{ $path := (add .Page.Path "/" (.Get 0) "/index.htm") }}
-{{/* print $path */}}
-{{/* <embed type="text/html" src="{{ $path }}" width="640" height="480"> */}}
+<embed type="text/html" src="/play/{{ .Get 0 }}" width="100%" height="512px">

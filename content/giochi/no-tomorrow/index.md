@@ -1,7 +1,13 @@
 ---
 title: No Tomorrow
 date: 2018-10-20 12:59:24
-image: post/no_tomorrow.gif
+showDate: false
+showReadingTime: false
+showPagination: false
+coverCaption:
+  Il mio piccolo videogioco sparatutto in azione.
+coverAlt:
+  "\"No Tomorrow\" è un piccolo videogioco sparatutto, ispirato ai classici arcade dei primi anni ottanta"
 summary: 
   Il mio videogioco scritto su PICO-8 ed ispirato ad un classico delle sale giochi
 categories:
@@ -10,9 +16,10 @@ categories:
 tags:
   - pico-8
   - videogiochi
+#layout: pico8
 ---
 
-{{< pico8 "game" >}}
+{{< pico8 "no-tomorrow" >}}
 
 **Questo è il mio piccolo tributo ad un gioco con cui sono cresciuto, nelle sale giochi della mia città quando ero un ragazzino.** Un gioco con una trackball, tanti missili ed il compito quasi impossibile di mantenere a distanza una guerra termonucleare il più a lungo possibile.
 
