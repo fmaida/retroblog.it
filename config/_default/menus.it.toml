@@ -13,17 +13,11 @@
     weight = 20
 
 [[main]]
-    pageRef="gioca"
-    name = "Gioca Online"
-    url = "/gioca/"
-    weight = 30
-
-[[main]]
   name = "Mastodon"
   title = "Seguimi su Mastodon"
   url = "https://livellosegreto.it/@cesco"
   rel = "me"
-  weight = 40
+  weight = 30
   [main.params]
     icon = "mastodon"    
     showName = false
@@ -34,7 +28,7 @@
   title = "Seguimi su YouTube"
   url = "https://www.youtube.com/@retroblogit"
   rel = "me"
-  weight = 50
+  weight = 40
   [main.params]
     icon = "youtube"
     showName = false
