@@ -24,12 +24,12 @@
     target = "_blank"
 
 [[main]]
-  name = "YouTube"
-  title = "Seguimi su YouTube"
-  url = "https://www.youtube.com/@retroblogit"
+  name = "Vinted"
+  title = "Seguimi su Vinted"
+  url = "https://www.vinted.it/member/206165702"
   rel = "me"
   weight = 40
   [main.params]
-    icon = "youtube"
+    icon = "vinted"
     showName = false
     target = "_blank"
