@@ -30,6 +30,6 @@
   rel = "me"
   weight = 40
   [main.params]
-    icon = "vinted"
+    icon = "store"
     showName = false
     target = "_blank"
