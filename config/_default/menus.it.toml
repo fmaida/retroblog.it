@@ -1,35 +1,33 @@
 [[main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Home'
-    url = '/'
-    weight = 10
+  # The page reference (pageRef) is useful for menu highlighting
+  # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+  pageRef="/"
+  name = 'Home'
+  url = '/'
+  weight = 10
 
 [[main]]
-    pageRef="blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 20
+  pageRef="blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 20
 
+#[[main]]
+#  name = "Il mio usato"
+#  title = "Il mio usato su Vinted"
+#  url = "https://www.vinted.it/member/206165702"
+#  rel = "me"
+#  weight = 30
+#  [main.params]    
+#    target = "_blank"
+    
 [[main]]
   name = "Mastodon"
   title = "Seguimi su Mastodon"
   url = "https://livellosegreto.it/@cesco"
   rel = "me"
-  weight = 30
-  [main.params]
-    icon = "mastodon"    
-    showName = false
-    target = "_blank"
-
-[[main]]
-  name = "Vinted"
-  title = "Seguimi su Vinted"
-  url = "https://www.vinted.it/member/206165702"
-  rel = "me"
   weight = 40
   [main.params]
-    icon = "store"
+    icon = "mastodon"    
     showName = false
     target = "_blank"
